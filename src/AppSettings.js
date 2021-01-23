@@ -1,0 +1,3 @@
+﻿export var AppSettings = {
+    "EndpointsAvailable": ["fetchCountry", "fetchCountryNames","fetchCountryOnDate", "fetchCountryToday", "fetchOnDate", "fetchTopActiveCount", "fetchTopConfirmedCount", "fetchTopDeathCount", "fetchTopRecoveredCount", "fetchTopNewCases","fetchTopNewDeaths","fetchTopNewRecoveries","fetchSortedActiveCount", "fetchSortedConfirmedCount", "fetchSortedDeathCount", "fetchSortedRecoveredCount", "fetchSortedNewCases", "fetchSortedNewDeaths", "fetchSortedNewRecoveries", "fetchCountryActive", "fetchCountryConfirmed", "fetchCountryDeath", "fetchCountryNewCases", "fetchCountryNewDeaths", "fetchCountryNewRecoveries", "fetchCountryRecovered"],
+}
